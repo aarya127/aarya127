@@ -10,4 +10,6 @@ My name is Aarya and I'm a Stats & CS grad from the University of Waterloo. I bu
 
 **[Healthcare SaaS](https://github.com/aarya127/CareLoop)** — Subscription practice management platform. Modular microservices on Node.js, React, and AWS.
 
+**[Career Platform](https://github.com/aarya127/ApplyPilot)** - Personalized app with job tracking, dashboards, and application autofill using AI-agents.
+
 
